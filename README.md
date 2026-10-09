@@ -1,14 +1,8 @@
-# Start a Camunda 8 Process Using an API Call
+# Camunda 8 Process Using an API Call
 
-**Course:** 21CSE735P – Workflow Automation Engineering
-**Institution:** SRM Institute of Science and Technology, Department of Computing Technologies
-**Class:** III Year / V Semester
-**Tools:** Camunda Modeler, Camunda 8 (C8 Run), Postman, Operate
-**Mode:** Individual
+RA2411003012475
+Srinithy P S
 
-## Task
-
-Create a simple **Leave Request** process in Camunda 8, then start it using a REST API call from Postman.
 
 ## 1. BPMN Diagram
 
